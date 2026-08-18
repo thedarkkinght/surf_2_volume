@@ -1,0 +1,5 @@
+numpy>=1.23
+nibabel>=5.0
+nilearn>=0.10
+neuromaps>=0.0.5
+

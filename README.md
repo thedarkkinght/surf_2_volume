@@ -207,8 +207,4 @@ persistent identifier in this README.
 If you use this workflow, cite the associated Surf_2_Volume manuscript and the
 source atlas. Add the final manuscript citation and DOI here after publication.
 
-## License
 
-No software license is assigned by this template. Before public release, choose
-and add a license that is compatible with the included code and all redistributed
-data. Third-party software and atlas files retain their own licenses.

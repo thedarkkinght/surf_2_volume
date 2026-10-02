@@ -1,0 +1,18 @@
+FreeSurfer fsaverage sphere.reg data
+------------------------------------
+The left and right fsaverage sphere.reg files are portions of FreeSurfer
+subject data. They are distributed under the FreeSurfer Software License
+Agreement included in FREESURFER_LICENSE.txt. That license and its applicable
+terms must accompany any redistribution. The agreement specifies this notice:
+
+"All or portions of this licensed product (such portions are the \"Software\")
+have been obtained under license from The General Hospital Corporation \"MGH\"
+and are subject to the following terms and conditions:"
+
+MNI152NLin6Asym derived reference data
+---------------------------------------
+The target-subject sphere registrations, SUMA surfaces, M2M maps, and ribbon
+masks were generated locally by running FreeSurfer recon-all and AFNI/SUMA on
+an MNI152NLin6Asym template. They are not official TemplateFlow surface files.
+Confirm the source template's license and attribution terms before publishing
+or mirroring these derived files.

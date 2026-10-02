@@ -1,0 +1,71 @@
+{
+  "archive": "reference_bundle.tar.gz",
+  "archive_sha256": "002645b2898ba81fbb0c208c766d8d3f0bd71354b942a18c44bb3bc6e310ef5d",
+  "provenance": {
+    "fsaverage_sphere_reg": "FreeSurfer 7.4.1 subjects/fsaverage",
+    "target_subject": "MNI152NLin6Asym, reconstructed locally with FreeSurfer 7.4.1 and converted with AFNI/SUMA @SUMA_Make_Spec_FS",
+    "pipeline_files_only": true
+  },
+  "files": [
+    {
+      "path": "fsaverage/surf/lh.sphere.reg",
+      "size_bytes": 5898546,
+      "sha256": "fddcf0eeecc6e0f62142164f7c0ac24fda1f0be8cb653d3f037970184c5ba98f"
+    },
+    {
+      "path": "MNI152NLin6Asym/surf/lh.sphere.reg",
+      "size_bytes": 5524267,
+      "sha256": "3b8079c91fab5e9395346b4bdc3ceb5e099f449edce7ea8cb0215d431b299e84"
+    },
+    {
+      "path": "MNI152NLin6Asym/SUMA/std.141.MNI152NLin6Asym_lh.niml.M2M",
+      "size_bytes": 15110529,
+      "sha256": "dbdadfb7a8e0785d01494e00ff973e3ac9fac7945958ef906fe35762f22cd221"
+    },
+    {
+      "path": "MNI152NLin6Asym/SUMA/std.141.lh.smoothwm.gii",
+      "size_bytes": 9545699,
+      "sha256": "b9798b8c49eeb836fd497f8629ffbf0f0908ae55c0e3663cece2b4ec9feaf5a5"
+    },
+    {
+      "path": "MNI152NLin6Asym/SUMA/std.141.lh.pial.gii",
+      "size_bytes": 9545699,
+      "sha256": "299646843cf83d05a717484d4b4c5ef0e5382a36f1bfdc6d046c6464aca6f4ce"
+    },
+    {
+      "path": "MNI152NLin6Asym/SUMA/lh.ribbon.nii.gz",
+      "size_bytes": 122562,
+      "sha256": "27ca994af954779c47391532903a42cdf2d64a5876df4bf10ba09b1208b623a2"
+    },
+    {
+      "path": "fsaverage/surf/rh.sphere.reg",
+      "size_bytes": 5898546,
+      "sha256": "fddcf0eeecc6e0f62142164f7c0ac24fda1f0be8cb653d3f037970184c5ba98f"
+    },
+    {
+      "path": "MNI152NLin6Asym/surf/rh.sphere.reg",
+      "size_bytes": 5544211,
+      "sha256": "7a9115adca40de9a6c2654de75c44d7a9ba9f669db506122bee494ffba78536c"
+    },
+    {
+      "path": "MNI152NLin6Asym/SUMA/std.141.MNI152NLin6Asym_rh.niml.M2M",
+      "size_bytes": 15110529,
+      "sha256": "286fc333848c4e561ccb92b855429c539b347d14fdb2df7c8aabcaa5b4363c8e"
+    },
+    {
+      "path": "MNI152NLin6Asym/SUMA/std.141.rh.smoothwm.gii",
+      "size_bytes": 9545699,
+      "sha256": "b1af0ef003cd931548b0beade893f477f1844a1c34b744f26afd50085a18b785"
+    },
+    {
+      "path": "MNI152NLin6Asym/SUMA/std.141.rh.pial.gii",
+      "size_bytes": 9545699,
+      "sha256": "1a2ef265df17b3dd8260d7f44000ab2c9dca984384bd687dec98dce7d72c735a"
+    },
+    {
+      "path": "MNI152NLin6Asym/SUMA/rh.ribbon.nii.gz",
+      "size_bytes": 122327,
+      "sha256": "301c9bb35788abb9c6d4f10c88ac2abcbdcc2bc18df7966d701e3c3232c99e3d"
+    }
+  ]
+}

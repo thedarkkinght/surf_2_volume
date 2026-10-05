@@ -7,6 +7,11 @@ Python tools for separating CIFTI dlabel files and converting cortical labels to
 ```bash
 pip install surf2volume
 ```
+or
+```
+pip install -i https://test.pypi.org/simple/ surf2volume==0.2.0
+```
+
 
 ## Convert CIFTI to NIfTI
 
